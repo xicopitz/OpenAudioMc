@@ -27,7 +27,7 @@ export const OpenAudioEnv = {
     "compiler": "__BUILD_AUTHOR__",
     "platform": "__BUILD_PLATFORM__",
     "environment": "__BUILD_ENV_RD__",
-    "isProd": JSON.parse("__BUILD_IS_PROD__"),
+    "isProd": true,
     "envDescription": "__ENV_ABOUT__"
 }
 
